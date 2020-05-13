@@ -1,0 +1,453 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.13)  13 MAY 2020 15:22
+entering extended mode
+**./informe.tex
+(informe.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06> (D:\Programas\Tex\tex/latex/base\book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(D:\Programas\Tex\tex/latex/base\bk11.clo
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (paquetes.tex
+(D:\Programas\Tex\tex/generic/babel\babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+
+(D:\Programas\Tex\tex/generic/babel\switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\Programas\Tex\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\Programas\Tex\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(D:\Programas\Tex\tex/generic/babel\babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
+
+(D:\Programas\Tex\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count177
+)
+\es@quottoks=\toks15
+\es@quotdepth=\count178
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(D:\Programas\Tex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Programas\Tex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\Programas\Tex\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Programas\Tex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\Programas\Tex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\Programas\Tex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+(D:\Programas\Tex\tex/latex/listings\listings.sty
+\lst@mode=\count179
+\lst@gtempboxa=\box45
+\lst@token=\toks17
+\lst@length=\count180
+\lst@currlwidth=\dimen138
+\lst@column=\count181
+\lst@pos=\count182
+\lst@lostspace=\dimen139
+\lst@width=\dimen140
+\lst@newlines=\count183
+\lst@lineno=\count184
+\lst@maxwidth=\dimen141
+
+(D:\Programas\Tex\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count185
+\lst@skipnumbers=\count186
+\lst@framebox=\box46
+)
+(D:\Programas\Tex\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+)
+(D:\Programas\Tex\tex/latex/graphics\color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(D:\Programas\Tex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (variables.tex
+(D:\Programas\Tex\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+))
+(D:\Programas\Tex\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count187
+\l__pdf_internal_box=\box47
+) (informe.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+
+(proyecto/proyecto.aux) (proyecto/metodologia.aux) (diseno/uml.aux)
+(diseno/casos.aux) (diseno/ineteracciones.aux) (diseno/clases.aux)
+(diseno/estados.aux) (diseno/actividades.aux) (diseno/camponentes.aux)
+(diseno/sistemas.aux) (diseno/nodos.aux) (diseno/conclusiones.aux))
+\openout1 = `informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+
+(D:\Programas\Tex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count188
+\scratchdimen=\dimen142
+\scratchbox=\box48
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen143
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks19
+) (D:\Programas\Tex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@lstlisting=\count194
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+ [1
+
+
+{C:/Users/Hi Bienvenido/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+] (informe.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 4.
+
+[3])
+\tf@toc=\write3
+\openout3 = `informe.toc'.
+
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [4] (informe.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write4
+\openout4 = `informe.lof'.
+
+ [5
+
+]
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [6
+
+] [7] [8]
+\openout2 = `proyecto/proyecto.aux'.
+
+ (proyecto/proyecto.tex
+Cap\'{\i }tulo 1.
+[9
+
+
+]
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+ [10]
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [11]
+Underfull \hbox (badness 10000) in paragraph at lines 18--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--26
+
+ []
+
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+[12]
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [13])
+\openout2 = `proyecto/metodologia.aux'.
+
+ (proyecto/metodologia.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [14
+
+
+
+]
+Cap\'{\i }tulo 2.
+[15]
+<imgs/espiral.pdf, id=55, 240.9pt x 275.0275pt>
+File: imgs/espiral.pdf Graphic file (type pdf)
+<use imgs/espiral.pdf>
+Package pdftex.def Info: imgs/espiral.pdf  used on input line 11.
+(pdftex.def)             Requested size: 251.9989pt x 287.70888pt.
+)
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ [16 <./imgs/espiral.pdf>] [17
+
+
+] [18]
+\openout2 = `diseno/uml.aux'.
+
+ (diseno/uml.tex
+Cap\'{\i }tulo 3.
+[19
+
+
+]
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+
+
+LaTeX Warning: Citation `IAK' on page 20 undefined on input line 7.
+
+
+LaTeX Warning: Citation `IRA' on page 20 undefined on input line 7.
+
+
+LaTeX Warning: Citation `RAI' on page 20 undefined on input line 7.
+
+[20]
+<imgs/clases.pdf, id=115, 343.2825pt x 68.255pt>
+File: imgs/clases.pdf Graphic file (type pdf)
+<use imgs/clases.pdf>
+Package pdftex.def Info: imgs/clases.pdf  used on input line 14.
+(pdftex.def)             Requested size: 251.9989pt x 50.10484pt.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ [21 <./imgs/clases.pdf>])
+\openout2 = `diseno/casos.aux'.
+
+ (diseno/casos.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Warning: Citation `IAK' on page 22 undefined on input line 1.
+
+
+LaTeX Warning: Citation `IRA' on page 22 undefined on input line 1.
+
+
+LaTeX Warning: Citation `RAI' on page 22 undefined on input line 1.
+
+[22
+
+
+
+]
+Cap\'{\i }tulo 4.
+[23])
+\openout2 = `diseno/ineteracciones.aux'.
+
+ (diseno/ineteracciones.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [24
+
+
+
+]
+Cap\'{\i }tulo 5.
+[25]
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ [26]
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ [27])
+\openout2 = `diseno/clases.aux'.
+
+ (diseno/clases.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [28
+
+
+
+]
+Cap\'{\i }tulo 6.
+[29])
+\openout2 = `diseno/estados.aux'.
+
+ (diseno/estados.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [30
+
+
+
+]
+Cap\'{\i }tulo 7.
+[31])
+\openout2 = `diseno/actividades.aux'.
+
+ (diseno/actividades.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [32
+
+
+
+]
+Cap\'{\i }tulo 8.
+[33])
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [34]
+\openout2 = `diseno/camponentes.aux'.
+
+ (diseno/camponentes.tex
+Cap\'{\i }tulo 9.
+[35
+
+
+
+])
+\openout2 = `diseno/sistemas.aux'.
+
+ (diseno/sistemas.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [36
+
+
+
+]
+Cap\'{\i }tulo 10.
+[37])
+\openout2 = `diseno/nodos.aux'.
+
+ (diseno/nodos.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [38
+
+
+
+]
+Cap\'{\i }tulo 11.
+[39])
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
+ [40
+
+
+] [41] [42]
+\openout2 = `diseno/conclusiones.aux'.
+
+ (diseno/conclusiones.tex
+Cap\'{\i }tulo 12.
+) [43
+
+
+] (informe.bbl
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [44
+
+
+]) [45] (informe.aux
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ (proyecto/proyecto.aux)
+(proyecto/metodologia.aux) (diseno/uml.aux) (diseno/casos.aux)
+(diseno/ineteracciones.aux) (diseno/clases.aux) (diseno/estados.aux)
+(diseno/actividades.aux) (diseno/camponentes.aux) (diseno/sistemas.aux)
+(diseno/nodos.aux) (diseno/conclusiones.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3812 strings out of 480930
+ 55985 string characters out of 2914679
+ 492923 words of memory out of 3000000
+ 19576 multiletter control sequences out of 15000+200000
+ 539421 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,6n,39p,635b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/Programas/Tex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Programas/Tex
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Programas/Tex/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><D:/Programas/Tex/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><D:/Programas/Tex/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Programas/Tex
+/fonts/type1/public/amsfonts/cm/cmsl10.pfb><D:/Programas/Tex/fonts/type1/public
+/amsfonts/cm/cmti12.pfb>
+Output written on informe.pdf (45 pages, 226301 bytes).
+PDF statistics:
+ 236 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

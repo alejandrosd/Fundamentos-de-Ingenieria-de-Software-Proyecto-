@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: informe.aux
+A level-1 auxiliary file: proyecto/proyecto.aux
+A level-1 auxiliary file: proyecto/metodologia.aux
+A level-1 auxiliary file: diseno/uml.aux
+Case mismatch error between cite keys IAK and Iak
+---line 11 of file diseno/uml.aux
+ : \citation{IAK
+ :              }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys IRA and Ira
+---line 12 of file diseno/uml.aux
+ : \citation{IRA
+ :              }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys RAI and Rai
+---line 13 of file diseno/uml.aux
+ : \citation{RAI
+ :              }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: diseno/casos.aux
+Case mismatch error between cite keys IAK and Iak
+---line 3 of file diseno/casos.aux
+ : \citation{IAK
+ :              }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys IRA and Ira
+---line 4 of file diseno/casos.aux
+ : \citation{IRA
+ :              }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys RAI and Rai
+---line 5 of file diseno/casos.aux
+ : \citation{RAI
+ :              }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: diseno/ineteracciones.aux
+A level-1 auxiliary file: diseno/clases.aux
+A level-1 auxiliary file: diseno/estados.aux
+A level-1 auxiliary file: diseno/actividades.aux
+A level-1 auxiliary file: diseno/camponentes.aux
+A level-1 auxiliary file: diseno/sistemas.aux
+A level-1 auxiliary file: diseno/nodos.aux
+A level-1 auxiliary file: diseno/conclusiones.aux
+The style file: plain.bst
+Database file #1: referencias/libros.bib
+Database file #2: referencias/articulos.bib
+Warning--empty publisher in UML_2
+Warning--empty year in UML_2
+(There were 6 error messages)
