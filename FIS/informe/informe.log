@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.13)  20 MAY 2020 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.13)  3 JUN 2020 16:34
 entering extended mode
 **./informe.tex
 (informe.tex
@@ -118,7 +118,7 @@ s.cfg"
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-)
+
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
 ty"
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
@@ -128,6 +128,85 @@ or.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
+y"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortb
+l.sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box47
+\extrarowheight=\dimen143
+\NC@list=\toks18
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box48
+)
+\everycr=\toks19
+\minrowclearance=\skip51
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count187
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktab
+s.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count188
+\@cmidlb=\count189
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count190
+\@lastruleclass=\count191
+\@thisrulewidth=\dimen156
+))
+("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.
+sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count192
+\LTcapwidth=\dimen157
+\LT@head=\box49
+\LT@firsthead=\box50
+\LT@foot=\box51
+\LT@lastfoot=\box52
+\LT@cols=\count193
+\LT@rows=\count194
+\c@LT@tables=\count195
+\c@LT@chunks=\count196
+\LT@p@ftn=\toks20
 ) (variables.tex
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang
 1.sty"
@@ -136,8 +215,8 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
 end-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count187
-\l__pdf_internal_box=\box47
+\l__kernel_color_stack_int=\count197
+\l__pdf_internal_box=\box53
 ) (informe.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
@@ -168,17 +247,17 @@ LaTeX Info: Redefining \% on input line 11.
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
 -pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count188
-\scratchdimen=\dimen142
-\scratchbox=\box48
-\nofMPsegments=\count189
-\nofMParguments=\count190
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count191
-\MPscratchDim=\dimen143
-\MPnumerator=\count192
-\makeMPintoPDFobject=\count193
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count198
+\scratchdimen=\dimen158
+\scratchbox=\box54
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen159
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks22
 )
 ("C:\Users\Usuario\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
 topdf-base.sty"
@@ -186,7 +265,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-\c@lstlisting=\count194
+\c@lstlisting=\count270
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -301,15 +380,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--7
 
 
 ]
-<imgs/espiral.pdf, id=56, 240.9pt x 275.0275pt>
-File: imgs/espiral.pdf Graphic file (type pdf)
-<use imgs/espiral.pdf>
-Package pdftex.def Info: imgs/espiral.pdf  used on input line 14.
-(pdftex.def)             Requested size: 251.9989pt x 287.70888pt.
+
+pdfTeX warning: pdflatex.exe (file ./imgs/Cascada.pdf): PDF inclusion: found PD
+F version <1.7>, but at most version <1.5> allowed
+<imgs/Cascada.pdf, id=56, 263.48438pt x 197.98969pt>
+File: imgs/Cascada.pdf Graphic file (type pdf)
+<use imgs/Cascada.pdf>
+Package pdftex.def Info: imgs/Cascada.pdf  used on input line 14.
+(pdftex.def)             Requested size: 288.0011pt x 216.4238pt.
+<imgs/Scrum.png, id=57, 726.46407pt x 318.43968pt>
+File: imgs/Scrum.png Graphic file (type png)
+<use imgs/Scrum.png>
+Package pdftex.def Info: imgs/Scrum.png  used on input line 19.
+(pdftex.def)             Requested size: 323.9978pt x 142.02347pt.
 )
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
- [16 <./imgs/espiral.pdf>] [17
+ [16 <./imgs/Cascada.pdf> <./imgs/Scrum.png>] [17
 
 
 ] [18]
@@ -321,111 +408,550 @@ Cap\'{\i }tulo 3.
 
 
 ]
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 
 
-LaTeX Warning: Citation `IAK' on page 20 undefined on input line 7.
+LaTeX Warning: Citation `IAK' on page 20 undefined on input line 11.
 
 
-LaTeX Warning: Citation `IRA' on page 20 undefined on input line 7.
+LaTeX Warning: Citation `IRA' on page 20 undefined on input line 11.
 
 
-LaTeX Warning: Citation `RAI' on page 20 undefined on input line 7.
+LaTeX Warning: Citation `RAI' on page 20 undefined on input line 11.
 
 [20]
-<imgs/clases.pdf, id=116, 343.2825pt x 68.255pt>
+<imgs/casodeuso.pdf, id=79, 58.2175pt x 32.12pt>
+File: imgs/casodeuso.pdf Graphic file (type pdf)
+<use imgs/casodeuso.pdf>
+Package pdftex.def Info: imgs/casodeuso.pdf  used on input line 25.
+(pdftex.def)             Requested size: 36.0022pt x 19.8637pt.
+<imgs/colaboracion.pdf, id=80, 101.37875pt x 65.24374pt>
+File: imgs/colaboracion.pdf Graphic file (type pdf)
+<use imgs/colaboracion.pdf>
+Package pdftex.def Info: imgs/colaboracion.pdf  used on input line 27.
+(pdftex.def)             Requested size: 36.0022pt x 23.17014pt.
+<imgs/clase.pdf, id=81, 54.2025pt x 44.165pt>
+File: imgs/clase.pdf Graphic file (type pdf)
+<use imgs/clase.pdf>
+Package pdftex.def Info: imgs/clase.pdf  used on input line 29.
+(pdftex.def)             Requested size: 36.0022pt x 29.33632pt.
+<imgs/interface.pdf, id=82, 68.255pt x 45.16875pt>
+File: imgs/interface.pdf Graphic file (type pdf)
+<use imgs/interface.pdf>
+Package pdftex.def Info: imgs/interface.pdf  used on input line 31.
+(pdftex.def)             Requested size: 36.0022pt x 23.8249pt.
+<imgs/componente.pdf, id=83, 80.3pt x 53.19875pt>
+File: imgs/componente.pdf Graphic file (type pdf)
+<use imgs/componente.pdf>
+Package pdftex.def Info: imgs/componente.pdf  used on input line 33.
+(pdftex.def)             Requested size: 36.0022pt x 23.85153pt.
+<imgs/nodo.pdf, id=84, 53.19875pt x 44.165pt>
+File: imgs/nodo.pdf Graphic file (type pdf)
+<use imgs/nodo.pdf>
+Package pdftex.def Info: imgs/nodo.pdf  used on input line 35.
+(pdftex.def)             Requested size: 36.0022pt x 29.89026pt.
+<imgs/artefacto.pdf, id=85, 69.25874pt x 56.21pt>
+File: imgs/artefacto.pdf Graphic file (type pdf)
+<use imgs/artefacto.pdf>
+Package pdftex.def Info: imgs/artefacto.pdf  used on input line 37.
+(pdftex.def)             Requested size: 36.0022pt x 29.21907pt.
+
+Overfull \hbox (90.58327pt too wide) in paragraph at lines 20--39
+[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+[21 <./imgs/casodeuso.pdf> <./imgs/colaboracion.pdf> <./imgs/clase.pdf> <./imgs
+/interface.pdf> <./imgs/componente.pdf> <./imgs/nodo.pdf> <./imgs/artefacto.pdf
+>]
+<imgs/estado.pdf, id=103, 59.22125pt x 44.165pt>
+File: imgs/estado.pdf Graphic file (type pdf)
+<use imgs/estado.pdf>
+Package pdftex.def Info: imgs/estado.pdf  used on input line 50.
+(pdftex.def)             Requested size: 36.0022pt x 26.84961pt.
+<imgs/actividad.pdf, id=104, 68.255pt x 22.0825pt>
+File: imgs/actividad.pdf Graphic file (type pdf)
+<use imgs/actividad.pdf>
+Package pdftex.def Info: imgs/actividad.pdf  used on input line 52.
+(pdftex.def)             Requested size: 36.0022pt x 11.64772pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./imgs/transicion.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<imgs/transicion.pdf, id=105, 361.35pt x 255.95625pt>
+File: imgs/transicion.pdf Graphic file (type pdf)
+<use imgs/transicion.pdf>
+Package pdftex.def Info: imgs/transicion.pdf  used on input line 54.
+(pdftex.def)             Requested size: 36.0022pt x 25.49948pt.
+
+Overfull \hbox (64.82033pt too wide) in paragraph at lines 45--60
+[][] 
+ []
+
+<imgs/paquete.pdf, id=106, 62.2325pt x 35.13126pt>
+File: imgs/paquete.pdf Graphic file (type pdf)
+<use imgs/paquete.pdf>
+Package pdftex.def Info: imgs/paquete.pdf  used on input line 73.
+(pdftex.def)             Requested size: 43.19824pt x 24.38638pt.
+<imgs/frame.png, id=107, 395.97937pt x 209.28188pt>
+File: imgs/frame.png Graphic file (type png)
+<use imgs/frame.png>
+Package pdftex.def Info: imgs/frame.png  used on input line 75.
+(pdftex.def)             Requested size: 36.0022pt x 19.02615pt.
+
+Overfull \hbox (66.19104pt too wide) in paragraph at lines 67--77
+[][] 
+ []
+
+<imgs/nota.pdf, id=108, 794.97pt x 614.295pt>
+File: imgs/nota.pdf Graphic file (type pdf)
+<use imgs/nota.pdf>
+Package pdftex.def Info: imgs/nota.pdf  used on input line 86.
+(pdftex.def)             Requested size: 53.9978pt x 41.72089pt.
+
+Overfull \hbox (45.72221pt too wide) in paragraph at lines 81--88
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+
+LaTeX Warning: Citation `IAK' on page 22 undefined on input line 91.
+
+
+LaTeX Warning: Citation `IRA' on page 22 undefined on input line 91.
+
+
+LaTeX Warning: Citation `RAI' on page 22 undefined on input line 91.
+
+[22 <./imgs/estado.pdf> <./imgs/actividad.pdf> <./imgs/transicion.pdf> <./imgs/
+paquete.pdf> <./imgs/frame.png>]
+<imgs/dependencia.pdf, id=124, 185.69376pt x 64.24pt>
+File: imgs/dependencia.pdf Graphic file (type pdf)
+<use imgs/dependencia.pdf>
+Package pdftex.def Info: imgs/dependencia.pdf  used on input line 102.
+(pdftex.def)             Requested size: 97.20154pt x 33.62749pt.
+<imgs/asociacion.pdf, id=125, 173.64874pt x 56.21pt>
+File: imgs/asociacion.pdf Graphic file (type pdf)
+<use imgs/asociacion.pdf>
+Package pdftex.def Info: imgs/asociacion.pdf  used on input line 104.
+(pdftex.def)             Requested size: 97.20154pt x 31.46536pt.
+<imgs/agragacion.pdf, id=126, 100.375pt x 112.42pt>
+File: imgs/agragacion.pdf Graphic file (type pdf)
+<use imgs/agragacion.pdf>
+Package pdftex.def Info: imgs/agragacion.pdf  used on input line 106.
+(pdftex.def)             Requested size: 108.0011pt x 120.96921pt.
+
+Overfull \hbox (135.50015pt too wide) in paragraph at lines 97--109
+[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
+[23 <./imgs/nota.pdf> <./imgs/dependencia.pdf> <./imgs/asociacion.pdf> <./imgs/
+agragacion.pdf>]
+<imgs/composicion.pdf, id=170, 114.4275pt x 127.47626pt>
+File: imgs/composicion.pdf Graphic file (type pdf)
+<use imgs/composicion.pdf>
+Package pdftex.def Info: imgs/composicion.pdf  used on input line 114.
+(pdftex.def)             Requested size: 90.0pt x 100.26747pt.
+
+Overfull \hbox (64.84775pt too wide) in paragraph at lines 112--116
+[][] 
+ []
+
+<imgs/generalizacion.pdf, id=171, 135.50626pt x 142.5325pt>
+File: imgs/generalizacion.pdf Graphic file (type pdf)
+<use imgs/generalizacion.pdf>
+Package pdftex.def Info: imgs/generalizacion.pdf  used on input line 124.
+(pdftex.def)             Requested size: 108.0011pt x 113.60422pt.
+<imgs/realizacion.pdf, id=172, 79.29625pt x 131.49126pt>
+File: imgs/realizacion.pdf Graphic file (type pdf)
+<use imgs/realizacion.pdf>
+Package pdftex.def Info: imgs/realizacion.pdf  used on input line 126.
+(pdftex.def)             Requested size: 90.0pt x 149.25351pt.
+
+Overfull \hbox (92.20198pt too wide) in paragraph at lines 119--128
+[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 130.
+LaTeX Info: Redefining \% on input line 130.
+
+LaTeX Warning: Citation `IAK' on page 24 undefined on input line 130.
+
+
+LaTeX Warning: Citation `IRA' on page 24 undefined on input line 130.
+
+
+LaTeX Warning: Citation `RAI' on page 24 undefined on input line 130.
+
+[24 <./imgs/composicion.pdf> <./imgs/generalizacion.pdf> <./imgs/realizacion.pd
+f>]
+<imgs/clases.pdf, id=207, 262.9825pt x 165.61874pt>
 File: imgs/clases.pdf Graphic file (type pdf)
 <use imgs/clases.pdf>
-Package pdftex.def Info: imgs/clases.pdf  used on input line 14.
-(pdftex.def)             Requested size: 251.9989pt x 50.10484pt.
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
- [21 <./imgs/clases.pdf>])
+Package pdftex.def Info: imgs/clases.pdf  used on input line 141.
+(pdftex.def)             Requested size: 115.20264pt x 72.55151pt.
+<imgs/objetos.pdf, id=208, 145.54375pt x 89.33376pt>
+File: imgs/objetos.pdf Graphic file (type pdf)
+<use imgs/objetos.pdf>
+Package pdftex.def Info: imgs/objetos.pdf  used on input line 143.
+(pdftex.def)             Requested size: 115.20264pt x 70.71191pt.
+<imgs/componentes.pdf, id=209, 289.08pt x 90.3375pt>
+File: imgs/componentes.pdf Graphic file (type pdf)
+<use imgs/componentes.pdf>
+Package pdftex.def Info: imgs/componentes.pdf  used on input line 145.
+(pdftex.def)             Requested size: 115.20264pt x 36.00064pt.
+<imgs/sistemas.pdf, id=210, 179.67125pt x 81.30376pt>
+File: imgs/sistemas.pdf Graphic file (type pdf)
+<use imgs/sistemas.pdf>
+Package pdftex.def Info: imgs/sistemas.pdf  used on input line 147.
+(pdftex.def)             Requested size: 115.20264pt x 52.13222pt.
+<imgs/estructuraCompuesta.pdf, id=211, 264.99pt x 115.43124pt>
+File: imgs/estructuraCompuesta.pdf Graphic file (type pdf)
+<use imgs/estructuraCompuesta.pdf>
+Package pdftex.def Info: imgs/estructuraCompuesta.pdf  used on input line 149.
+(pdftex.def)             Requested size: 126.0022pt x 54.88676pt.
+
+Overfull \hbox (136.2246pt too wide) in paragraph at lines 136--153
+[][] 
+ []
+
+
+
+pdfTeX warning: pdflatex.exe (file ./imgs/casosdeuso.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<imgs/casosdeuso.pdf, id=212, 271.0125pt x 240.9pt>
+File: imgs/casosdeuso.pdf Graphic file (type pdf)
+<use imgs/casosdeuso.pdf>
+Package pdftex.def Info: imgs/casosdeuso.pdf  used on input line 162.
+(pdftex.def)             Requested size: 90.0pt x 80.00082pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./imgs/secuencia.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<imgs/secuencia.pdf, id=213, 90.3375pt x 92.59593pt>
+File: imgs/secuencia.pdf Graphic file (type pdf)
+<use imgs/secuencia.pdf>
+Package pdftex.def Info: imgs/secuencia.pdf  used on input line 164.
+(pdftex.def)             Requested size: 90.0pt x 92.25093pt.
+<imgs/comunicacion.pdf, id=214, 133.49875pt x 109.40875pt>
+File: imgs/comunicacion.pdf Graphic file (type pdf)
+<use imgs/comunicacion.pdf>
+Package pdftex.def Info: imgs/comunicacion.pdf  used on input line 166.
+(pdftex.def)             Requested size: 90.0pt x 73.76256pt.
+<imgs/estados.pdf, id=215, 134.5025pt x 57.21375pt>
+File: imgs/estados.pdf Graphic file (type pdf)
+<use imgs/estados.pdf>
+Package pdftex.def Info: imgs/estados.pdf  used on input line 168.
+(pdftex.def)             Requested size: 90.0pt x 38.2841pt.
+<imgs/actividades.pdf, id=216, 157.58875pt x 50.1875pt>
+File: imgs/actividades.pdf Graphic file (type pdf)
+<use imgs/actividades.pdf>
+Package pdftex.def Info: imgs/actividades.pdf  used on input line 170.
+(pdftex.def)             Requested size: 126.0022pt x 40.12859pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./imgs/vistaconjunta.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<imgs/vistaconjunta.pdf, id=217, 272.51813pt x 80.55093pt>
+File: imgs/vistaconjunta.pdf Graphic file (type pdf)
+<use imgs/vistaconjunta.pdf>
+Package pdftex.def Info: imgs/vistaconjunta.pdf  used on input line 172.
+(pdftex.def)             Requested size: 126.0022pt x 37.24315pt.
+
+Overfull \hbox (100.75867pt too wide) in paragraph at lines 157--174
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 30.93909pt on input line 174.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 183.
+LaTeX Info: Redefining \% on input line 183.
+[25 <./imgs/clases.pdf> <./imgs/objetos.pdf> <./imgs/componentes.pdf> <./imgs/s
+istemas.pdf> <./imgs/estructuraCompuesta.pdf>])
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+
+
+LaTeX Warning: Citation `IAK' on page 26 undefined on input line 22.
+
+
+LaTeX Warning: Citation `IRA' on page 26 undefined on input line 22.
+
+
+LaTeX Warning: Citation `RAI' on page 26 undefined on input line 22.
+
+[26 <./imgs/casosdeuso.pdf> <./imgs/secuencia.pdf> <./imgs/comunicacion.pdf> <.
+/imgs/estados.pdf> <./imgs/actividades.pdf> <./imgs/vistaconjunta.pdf>]
 \openout2 = `diseno/casos.aux'.
 
- (diseno/casos.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+
+(diseno/casos.tex
+Cap\'{\i }tulo 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
+
+ []
 
 
-LaTeX Warning: Citation `IAK' on page 22 undefined on input line 1.
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
 
+ []
 
-LaTeX Warning: Citation `IRA' on page 22 undefined on input line 1.
-
-
-LaTeX Warning: Citation `RAI' on page 22 undefined on input line 1.
-
-[22
+[27
 
 
 
 ]
-Cap\'{\i }tulo 4.
-[23])
+<imgs/Imagenes - casos de uso/Diagrama-General-Casos-de-Uso.pdf, id=256, 486.81
+876pt x 252.945pt>
+File: imgs/Imagenes - casos de uso/Diagrama-General-Casos-de-Uso.pdf Graphic fi
+le (type pdf)
+<use imgs/Imagenes - casos de uso/Diagrama-General-Casos-de-Uso.pdf>
+Package pdftex.def Info: imgs/Imagenes - casos de uso/Diagrama-General-Casos-de
+-Uso.pdf  used on input line 23.
+(pdftex.def)             Requested size: 450.0pt x 233.81607pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Overfull \hbox (90.0pt too wide) in paragraph at lines 14--31
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--31
+
+ []
+
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+[28 <./imgs/Imagenes - casos de uso/Diagrama-General-Casos-de-Uso.pdf>]
+Overfull \hbox (91.60957pt too wide) in alignment at lines 33--37
+ [] [] [] 
+ []
+
+
+Overfull \hbox (91.60957pt too wide) in alignment at lines 37--38
+ [] [] [] 
+ []
+
+<imgs/Imagenes - casos de uso/Casoparqveh.pdf, id=261, 305.14pt x 104.39pt>
+File: imgs/Imagenes - casos de uso/Casoparqveh.pdf Graphic file (type pdf)
+<use imgs/Imagenes - casos de uso/Casoparqveh.pdf>
+Package pdftex.def Info: imgs/Imagenes - casos de uso/Casoparqveh.pdf  used on 
+input line 39.
+(pdftex.def)             Requested size: 180.0pt x 61.58159pt.
+
+Overfull \hbox (91.60957pt too wide) in alignment at lines 38--59
+ [] [] [] 
+ []
+
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
+[29 <./imgs/Imagenes - casos de uso/Casoparqveh.pdf>]
+Overfull \hbox (104.465pt too wide) in alignment at lines 67--71
+ [] [] [] 
+ []
+
+
+Overfull \hbox (104.465pt too wide) in alignment at lines 71--72
+ [] [] [] 
+ []
+
+<imgs/Imagenes - casos de uso/Casoparqtipoveh.pdf, id=266, 257.96375pt x 132.49
+5pt>
+File: imgs/Imagenes - casos de uso/Casoparqtipoveh.pdf Graphic file (type pdf)
+<use imgs/Imagenes - casos de uso/Casoparqtipoveh.pdf>
+Package pdftex.def Info: imgs/Imagenes - casos de uso/Casoparqtipoveh.pdf  used
+ on input line 73.
+(pdftex.def)             Requested size: 180.0pt x 92.45473pt.
+
+Overfull \hbox (104.465pt too wide) in alignment at lines 72--93
+ [] [] [] 
+ []
+
+LaTeX Info: Redefining \. on input line 99.
+LaTeX Info: Redefining \% on input line 99.
+[30 <./imgs/Imagenes - casos de uso/Casoparqtipoveh.pdf>]
+Overfull \hbox (58.31409pt too wide) in alignment at lines 100--104
+ [] [] [] 
+ []
+
+
+Overfull \hbox (58.31409pt too wide) in alignment at lines 104--105
+ [] [] [] 
+ []
+
+<imgs/Imagenes - casos de uso/Casofiltroprec.pdf, id=271, 257.96375pt x 132.495
+pt>
+File: imgs/Imagenes - casos de uso/Casofiltroprec.pdf Graphic file (type pdf)
+<use imgs/Imagenes - casos de uso/Casofiltroprec.pdf>
+Package pdftex.def Info: imgs/Imagenes - casos de uso/Casofiltroprec.pdf  used 
+on input line 106.
+(pdftex.def)             Requested size: 180.0pt x 92.45473pt.
+
+Overfull \hbox (58.31409pt too wide) in alignment at lines 105--126
+ [] [] [] 
+ []
+
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+[31 <./imgs/Imagenes - casos de uso/Casofiltroprec.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 134.
+
+<imgs/Imagenes - casos de uso/Consultas.pdf, id=277, 284.06125pt x 106.3975pt>
+File: imgs/Imagenes - casos de uso/Consultas.pdf Graphic file (type pdf)
+<use imgs/Imagenes - casos de uso/Consultas.pdf>
+Package pdftex.def Info: imgs/Imagenes - casos de uso/Consultas.pdf  used on in
+put line 138.
+(pdftex.def)             Requested size: 216.0022pt x 80.90839pt.
+
+Overfull \hbox (107.35289pt too wide) in paragraph at lines 135--148
+[][] 
+ []
+
+LaTeX Info: Redefining \. on input line 154.
+LaTeX Info: Redefining \% on input line 154.
+[32 <./imgs/Imagenes - casos de uso/Consultas.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 155.
+
+<imgs/Imagenes - casos de uso/Geolocalizacion.pdf, id=282, 284.06125pt x 106.39
+75pt>
+File: imgs/Imagenes - casos de uso/Geolocalizacion.pdf Graphic file (type pdf)
+<use imgs/Imagenes - casos de uso/Geolocalizacion.pdf>
+Package pdftex.def Info: imgs/Imagenes - casos de uso/Geolocalizacion.pdf  used
+ on input line 159.
+(pdftex.def)             Requested size: 216.0022pt x 80.90839pt.
+
+Overfull \hbox (98.51685pt too wide) in paragraph at lines 156--172
+[][] 
+ []
+
+)
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [33 <./imgs/Imagenes - casos de uso/Geolocalizacion.pdf>]
 \openout2 = `diseno/ineteracciones.aux'.
 
- (diseno/ineteracciones.tex
+
+(diseno/ineteracciones.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [24
+ [34
 
 
 
 ]
 Cap\'{\i }tulo 5.
-[25]
+[35]
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
- [26]
+ [36]
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
- [27])
+ [37])
 \openout2 = `diseno/clases.aux'.
 
  (diseno/clases.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [28
+ [38
 
 
 
 ]
 Cap\'{\i }tulo 6.
-[29])
+[39])
 \openout2 = `diseno/estados.aux'.
 
  (diseno/estados.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [30
+ [40
 
 
 
 ]
 Cap\'{\i }tulo 7.
-[31])
+[41])
 \openout2 = `diseno/actividades.aux'.
 
  (diseno/actividades.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [32
+ [42
 
 
 
 ]
 Cap\'{\i }tulo 8.
-[33])
+[43])
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
- [34]
+ [44]
 \openout2 = `diseno/camponentes.aux'.
 
  (diseno/camponentes.tex
 Cap\'{\i }tulo 9.
-[35
+[45
 
 
 
@@ -435,45 +961,45 @@ Cap\'{\i }tulo 9.
  (diseno/sistemas.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [36
+ [46
 
 
 
 ]
 Cap\'{\i }tulo 10.
-[37])
+[47])
 \openout2 = `diseno/nodos.aux'.
 
  (diseno/nodos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [38
+ [48
 
 
 
 ]
 Cap\'{\i }tulo 11.
-[39])
+[49])
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
- [40
+ [50
 
 
-] [41] [42]
+] [51] [52]
 \openout2 = `diseno/conclusiones.aux'.
 
  (diseno/conclusiones.tex
 Cap\'{\i }tulo 12.
-) [43
+) [53
 
 
 ] (informe.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [44
+ [54
 
 
-]) [45] (informe.aux
+]) [55] (informe.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
  (proyecto/proyecto.aux)
@@ -486,13 +1012,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3822 strings out of 480930
- 61255 string characters out of 2898823
- 492923 words of memory out of 3000000
- 19584 multiletter control sequences out of 15000+200000
+ 4761 strings out of 480930
+ 75087 string characters out of 2898823
+ 512028 words of memory out of 3000000
+ 20471 multiletter control sequences out of 15000+200000
  539421 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,6n,39p,837b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,20n,39p,1245b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX
@@ -500,11 +1026,12 @@ ts/cm/cmbx10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Usuario/A
 ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/U
 sers/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msl10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmti12.pfb>
-Output written on informe.pdf (45 pages, 259922 bytes).
+mr8.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsl10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on informe.pdf (55 pages, 757463 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
+ 386 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
