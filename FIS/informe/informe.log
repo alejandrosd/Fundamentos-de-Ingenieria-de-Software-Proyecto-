@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.13)  8 JUL 2020 18:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.13)  15 JUL 2020 16:57
 entering extended mode
 **./informe.tex
 (informe.tex
@@ -1514,34 +1514,63 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 8.
-[65])
+[65]
+
+pdfTeX warning: pdflatex.exe (file ./imgs/DiagramaActividades-Algoritmo/Ejemplo
+DiagramaActividades.pdf): PDF inclusion: found PDF version <1.7>, but at most v
+ersion <1.5> allowed
+<imgs/DiagramaActividades-Algoritmo/EjemploDiagramaActividades.pdf, id=874, 606
+.85118pt x 397.54019pt>
+File: imgs/DiagramaActividades-Algoritmo/EjemploDiagramaActividades.pdf Graphic
+ file (type pdf)
+<use imgs/DiagramaActividades-Algoritmo/EjemploDiagramaActividades.pdf>
+Package pdftex.def Info: imgs/DiagramaActividades-Algoritmo/EjemploDiagramaActi
+vidades.pdf  used on input line 22.
+(pdftex.def)             Requested size: 360.0pt x 235.83266pt.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+[66 <./imgs/DiagramaActividades-Algoritmo/EjemploDiagramaActividades.pdf>]
+<imgs/DiagramaActividades-Algoritmo/DiagramaActividades-AlgoritmoTarifa.pdf, id
+=880, 516.93124pt x 316.18124pt>
+File: imgs/DiagramaActividades-Algoritmo/DiagramaActividades-AlgoritmoTarifa.pd
+f Graphic file (type pdf)
+<use imgs/DiagramaActividades-Algoritmo/DiagramaActividades-AlgoritmoTarifa.pdf
+>
+Package pdftex.def Info: imgs/DiagramaActividades-Algoritmo/DiagramaActividades
+-AlgoritmoTarifa.pdf  used on input line 32.
+(pdftex.def)             Requested size: 424.79736pt x 259.83476pt.
+
+Overfull \hbox (64.79736pt too wide) in paragraph at lines 32--33
+ [] 
+ []
+
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+[67 <./imgs/DiagramaActividades-Algoritmo/DiagramaActividades-AlgoritmoTarifa.p
+df>]
+<imgs/DiagramaWorkFlow-Proyecto/WorkFlow-Proyecto.pdf, id=886, 623.32875pt x 40
+5.515pt>
+File: imgs/DiagramaWorkFlow-Proyecto/WorkFlow-Proyecto.pdf Graphic file (type p
+df)
+<use imgs/DiagramaWorkFlow-Proyecto/WorkFlow-Proyecto.pdf>
+Package pdftex.def Info: imgs/DiagramaWorkFlow-Proyecto/WorkFlow-Proyecto.pdf  
+used on input line 46.
+(pdftex.def)             Requested size: 431.9989pt x 281.04936pt.
+
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 46--47
+ [] 
+ []
+
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+[68 <./imgs/DiagramaWorkFlow-Proyecto/WorkFlow-Proyecto.pdf>])
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [66]
+ [69]
 \openout2 = `diseno/camponentes.aux'.
 
- (diseno/camponentes.tex
-Cap\'{\i }tulo 9.
-[67
 
-
-
-])
-\openout2 = `diseno/sistemas.aux'.
-
- (diseno/sistemas.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [68
-
-
-
-]
-Cap\'{\i }tulo 10.
-[69])
-\openout2 = `diseno/nodos.aux'.
-
- (diseno/nodos.tex
+(diseno/camponentes.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [70
@@ -1549,28 +1578,52 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 ]
-Cap\'{\i }tulo 11.
+Cap\'{\i }tulo 9.
 [71])
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
+\openout2 = `diseno/sistemas.aux'.
+
+ (diseno/sistemas.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
  [72
 
 
-] [73] [74]
+
+]
+Cap\'{\i }tulo 10.
+[73])
+\openout2 = `diseno/nodos.aux'.
+
+ (diseno/nodos.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [74
+
+
+
+]
+Cap\'{\i }tulo 11.
+[75])
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [76
+
+
+] [77] [78]
 \openout2 = `diseno/conclusiones.aux'.
 
  (diseno/conclusiones.tex
 Cap\'{\i }tulo 12.
-) [75
+) [79
 
 
 ] (informe.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [76
+ [80
 
 
-]) [77] (informe.aux
+]) [81] (informe.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
  (proyecto/proyecto.aux)
@@ -1583,10 +1636,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5080 strings out of 480930
- 92890 string characters out of 2898823
+ 5103 strings out of 480930
+ 94638 string characters out of 2898823
  513363 words of memory out of 3000000
- 20744 multiletter control sequences out of 15000+200000
+ 20762 multiletter control sequences out of 15000+200000
  539421 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,20n,39p,1245b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1601,9 +1654,9 @@ mr6.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmr8.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Usuario/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on informe.pdf (77 pages, 4440788 bytes).
+Output written on informe.pdf (81 pages, 4632609 bytes).
 PDF statistics:
- 945 PDF objects out of 1000 (max. 8388607)
+ 965 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 376 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
 

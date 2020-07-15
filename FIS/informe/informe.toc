@@ -59,12 +59,14 @@
 \contentsline {subsection}{\numberline {7.3.3}Anexo 1: Diagrama de Secuencia Extendido}{63}%
 \contentsline {chapter}{\numberline {8}Actividades}{65}%
 \contentsline {section}{\numberline {8.1}Introduccion}{65}%
-\contentsline {section}{\numberline {8.2}WorkFlow}{66}%
-\contentsline {chapter}{\numberline {9}Componentes}{67}%
-\contentsline {section}{\numberline {9.1}Introduccion}{67}%
-\contentsline {chapter}{\numberline {10}Sistemas}{69}%
-\contentsline {section}{\numberline {10.1}Introduccion}{69}%
-\contentsline {chapter}{\numberline {11}Nodos}{71}%
-\contentsline {section}{\numberline {11.1}Introduccion}{71}%
-\contentsline {part}{III\hspace {1em}CIERRE}{73}%
-\contentsline {chapter}{\numberline {12}Conclusiones}{75}%
+\contentsline {section}{\numberline {8.2}Diagrama de Actividades - Algoritmo Tarifa}{67}%
+\contentsline {section}{\numberline {8.3}WorkFlow}{68}%
+\contentsline {subsection}{\numberline {8.3.1}Diagrama de Actividades - WorkFlow}{68}%
+\contentsline {chapter}{\numberline {9}Componentes}{71}%
+\contentsline {section}{\numberline {9.1}Introduccion}{71}%
+\contentsline {chapter}{\numberline {10}Sistemas}{73}%
+\contentsline {section}{\numberline {10.1}Introduccion}{73}%
+\contentsline {chapter}{\numberline {11}Nodos}{75}%
+\contentsline {section}{\numberline {11.1}Introduccion}{75}%
+\contentsline {part}{III\hspace {1em}CIERRE}{77}%
+\contentsline {chapter}{\numberline {12}Conclusiones}{79}%
