@@ -3,7 +3,7 @@
 Proyecto Parqueaderos.
 
 Integrantes:
-Luis Alejandro Ocampo -
+- Luis Alejandro Ocampo -
 
 - Daniel Esteban Rodriguez -
 
