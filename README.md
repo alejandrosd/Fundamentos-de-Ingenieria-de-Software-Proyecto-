@@ -1,6 +1,6 @@
 # Fundamentos-de-Ingenieria-de-Software-Proyecto-
 
-Proyecto Parqueaderos.
+Documentacion de Proyecto Parqueaderos.
 
 Integrantes:
 - Luis Alejandro Ocampo -
